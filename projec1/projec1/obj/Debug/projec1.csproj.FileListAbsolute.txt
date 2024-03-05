@@ -1,0 +1,7 @@
+E:\23.11.5641\projec1\projec1\bin\Debug\projec1.exe.config
+E:\23.11.5641\projec1\projec1\bin\Debug\projec1.exe
+E:\23.11.5641\projec1\projec1\bin\Debug\projec1.pdb
+E:\23.11.5641\projec1\projec1\obj\Debug\projec1.csproj.AssemblyReference.cache
+E:\23.11.5641\projec1\projec1\obj\Debug\projec1.csproj.CoreCompileInputs.cache
+E:\23.11.5641\projec1\projec1\obj\Debug\projec1.exe
+E:\23.11.5641\projec1\projec1\obj\Debug\projec1.pdb
